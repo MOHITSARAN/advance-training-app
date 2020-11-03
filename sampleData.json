@@ -1,0 +1,2898 @@
+{
+	"DataLevel2": {
+		"displayName": "Name2",
+		"adnlTransactions": {},
+		"adnlTransactions.whtCharges": [{
+			"subTotal": {
+				"value": "135.01",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"whtProductId": {
+				"value": "WHT001",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"whtProductName": {
+				"value": "WHT5%",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"id": {
+				"value": "WHT1/FYN/122345/072020",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"whtCharge": {
+				"value": "6.75",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"type": {
+				"value": "D",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"subTotal": {
+				"value": "135.01",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"whtProductId": {
+				"value": "WHT002",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"whtProductName": {
+				"value": "WHT1%",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"id": {
+				"value": "WHT2/FYN/122367/072020",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"whtCharge": {
+				"value": "1.35",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"type": {
+				"value": "D",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}],
+		"billDetails": {
+			"totalCostofThisPeriod": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"actualPayableAmount": {
+				"value": "-1387261",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"payableAmount": {
+				"value": "-1,387,261",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalDebits": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalCredits": {
+				"value": "1488550",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		},
+		"billDetails.additionalCharges": [{
+			"chargeName": {
+				"value": "Payment via Bank",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "-9,200",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"debits": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"credits": {
+				"value": "9200",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "Transfer from Deposits/Corrections",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "-500",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"debits": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"credits": {
+				"value": "500",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "Other Debits / Credits",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "-1,478,850",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"debits": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"credits": {
+				"value": "1478850",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}],
+		"billDetails.chargeDetails": {
+			"chargeName": {
+				"value": "123HYCONNECT VOICE SUBSCRIPTIONS",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "-500",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"debits": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"credits": {
+				"value": "500",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargePeriod": {
+				"value": "01-Feb-20 to 29-Feb-20",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		},
+		"billDetails.taxAndOthers": {
+			"chargeName": {
+				"value": "12Transfer from Deposits/Corrections",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "-500",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"debits": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"credits": {
+				"value": "500",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		},
+		"callTypes": {},
+		"callTypes.bundleSubscriptions": [{
+			"index": {
+				"value": "1",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"description": {
+				"value": "00:00:20",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeRls": {
+				"value": "2.2",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"number": {
+				"value": "1434",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"date": {
+				"value": "02/03/2019",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"time": {
+				"value": "00:00:00",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"index": {
+				"value": "2",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"description": {
+				"value": "00:00:20",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeRls": {
+				"value": "2.2",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"number": {
+				"value": "144",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"date": {
+				"value": "02/03/2019",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"time": {
+				"value": "00:00:00",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"index": {
+				"value": "3",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"description": {
+				"value": "00:00:20",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeRls": {
+				"value": "2.2",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"number": {
+				"value": "434",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"date": {
+				"value": "02/03/2019",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"time": {
+				"value": "00:00:00",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}],
+		"callTypes.digitalServices": [{
+			"index": {
+				"value": "1",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"description": {
+				"value": "00:00:20",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeRls": {
+				"value": "2.2",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"number": {
+				"value": "1434",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"date": {
+				"value": "02/03/2019",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"time": {
+				"value": "00:00:00",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"index": {
+				"value": "2",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"description": {
+				"value": "00:00:20",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeRls": {
+				"value": "2.2",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"number": {
+				"value": "144",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"date": {
+				"value": "02/03/2019",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"time": {
+				"value": "00:00:00",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"index": {
+				"value": "3",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"description": {
+				"value": "00:00:20",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeRls": {
+				"value": "2.2",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"number": {
+				"value": "434",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"date": {
+				"value": "02/03/2019",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"time": {
+				"value": "00:00:00",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}],
+		"callTypes.itemizedCallsSMS": [{
+			"date": {
+				"value": "02/03/2019",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"time": {
+				"value": "00:00:00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"eventUnits": {
+				"value": "00:00:20",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"callType": {
+				"value": "Voice",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"number": {
+				"value": "9032020422",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"destination": {
+				"value": "100.50",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeRls": {
+				"value": "2.2",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"date": {
+				"value": "02/03/2019",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"time": {
+				"value": "00:00:00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"eventUnits": {
+				"value": "00:00:20",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"callType": {
+				"value": "SMS",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"number": {
+				"value": "9032020422",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"destination": {
+				"value": "100.50",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeRls": {
+				"value": "2.2",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"date": {
+				"value": "02/03/2019",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"time": {
+				"value": "00:00:00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"eventUnits": {
+				"value": "00:00:20",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"callType": {
+				"value": "Voice",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"number": {
+				"value": "9032020422",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"destination": {
+				"value": "100.50",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeRls": {
+				"value": "2.2",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"date": {
+				"value": "02/03/2019",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"time": {
+				"value": "00:00:00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"eventUnits": {
+				"value": "00:00:20",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"callType": {
+				"value": "Voice",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"number": {
+				"value": "9032020422",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"destination": {
+				"value": "100.50",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeRls": {
+				"value": "2.2",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}],
+		"callTypes.itemizedData": [{
+			"date": {
+				"value": "02/03/2019",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"time": {
+				"value": "00:00:00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"eventUnits": {
+				"value": "00:00:20",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"callType": {
+				"value": "Voice",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"number": {
+				"value": "9032020422",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeRls": {
+				"value": "2.2",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"date": {
+				"value": "02/03/2019",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"time": {
+				"value": "00:00:00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"eventUnits": {
+				"value": "00:00:20",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"callType": {
+				"value": "SMS",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"number": {
+				"value": "9032020422",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeRls": {
+				"value": "2.2",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"date": {
+				"value": "02/03/2019",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"time": {
+				"value": "00:00:00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"eventUnits": {
+				"value": "00:00:20",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"callType": {
+				"value": "Voice",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"number": {
+				"value": "9032020422",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeRls": {
+				"value": "2.2",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"date": {
+				"value": "02/03/2019",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"time": {
+				"value": "00:00:00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"eventUnits": {
+				"value": "00:00:20",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"callType": {
+				"value": "Voice",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"number": {
+				"value": "9032020422",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeRls": {
+				"value": "2.2",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}],
+		"callTypes.itemizedRoamingCallsSMS": [{
+			"date": {
+				"value": "02/03/2019",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"time": {
+				"value": "00:00:00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"eventUnits": {
+				"value": "00:00:20",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"eventSegregation": {
+				"value": "Outgoing",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"callType": {
+				"value": "Voice",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"number": {
+				"value": "9032020422",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"destination": {
+				"value": "Nigeria",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"eventDestinationType": {
+				"value": "Nigeria Roaming",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"eventServiceType": {
+				"value": "-",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeRls": {
+				"value": "2.2",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"date": {
+				"value": "02/03/2019",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"time": {
+				"value": "00:00:00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"eventUnits": {
+				"value": "00:00:20",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"eventSegregation": {
+				"value": "Outgoing",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"callType": {
+				"value": "Voice",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"number": {
+				"value": "9032020422",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"destination": {
+				"value": "Nigeria",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"eventDestinationType": {
+				"value": "Nigeria Roaming",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"eventServiceType": {
+				"value": "-",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeRls": {
+				"value": "2.2",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"date": {
+				"value": "02/03/2019",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"time": {
+				"value": "00:00:00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"eventUnits": {
+				"value": "00:00:20",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"eventSegregation": {
+				"value": "Outgoing",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"callType": {
+				"value": "Voice",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"number": {
+				"value": "9032020422",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"destination": {
+				"value": "Nigeria",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"eventDestinationType": {
+				"value": "Nigeria Roaming",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"eventServiceType": {
+				"value": "-",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeRls": {
+				"value": "2.2",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"date": {
+				"value": "02/03/2019",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"time": {
+				"value": "00:00:00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"eventUnits": {
+				"value": "00:00:20",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"eventSegregation": {
+				"value": "Outgoing",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"callType": {
+				"value": "Voice",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"number": {
+				"value": "9032020422",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"destination": {
+				"value": "Nigeria",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"eventDestinationType": {
+				"value": "Nigeria Roaming",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"eventServiceType": {
+				"value": "-",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeRls": {
+				"value": "2.2",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}],
+		"callTypes.itemizedRoamingData": [{
+			"date": {
+				"value": "02/03/2019",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"time": {
+				"value": "00:00:00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"eventUnits": {
+				"value": "00:00:20",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"number": {
+				"value": "9032020422",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"eventServiceType": {
+				"value": "Nigeria",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"eventDestinationType": {
+				"value": "Nigeria Roaming",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeRls": {
+				"value": "2.2",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"date": {
+				"value": "02/03/2019",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"time": {
+				"value": "00:00:00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"eventUnits": {
+				"value": "00:00:20",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"number": {
+				"value": "9032020422",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"eventServiceType": {
+				"value": "Nigeria",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"eventDestinationType": {
+				"value": "Nigeria Roaming",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeRls": {
+				"value": "2.2",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}],
+		"callTypesFooter": {},
+		"callTypesFooter.bundleSubscriptionsfooter": {
+			"totalDuration": {
+				"value": "6",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalCharges": {
+				"value": "602",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"onNetDuration": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"offNetDuration": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"onNetCharges": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"offNetCharges": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalUnits": {
+				"value": "3",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalEventUnits": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalSMSCharges": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalCallCharges": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		},
+		"callTypesFooter.digitalServicesfooter": {
+			"totalDuration": {
+				"value": "00:00:12",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalCharges": {
+				"value": "1,203",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"onNetDuration": {
+				"value": "00:00:00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"offNetDuration": {
+				"value": "00:00:00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"onNetCharges": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"offNetCharges": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalUnits": {
+				"value": "6",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalEventUnits": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalSMSCharges": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalCallCharges": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		},
+		"callTypesFooter.itemizedCallsSMSfooter": {
+			"totalDuration": {
+				"value": "00:00:18",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalCharges": {
+				"value": "1,805",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"onNetDuration": {
+				"value": "00:00:00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"offNetDuration": {
+				"value": "00:00:00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"onNetCharges": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"offNetCharges": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalUnits": {
+				"value": "9",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalEventUnits": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalSMSCharges": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalCallCharges": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		},
+		"callTypesFooter.itemizedDatafooter": {
+			"totalDuration": {
+				"value": "00:00:06",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalCharges": {
+				"value": "602",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"onNetDuration": {
+				"value": "00:00:00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"offNetDuration": {
+				"value": "00:00:00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"onNetCharges": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"offNetCharges": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalUnits": {
+				"value": "3",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalEventUnits": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalSMSCharges": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalCallCharges": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		},
+		"callTypesFooter.itemizedRoamingCallsSMSfooter": {
+			"totalDuration": {
+				"value": "00:00:06",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalCharges": {
+				"value": "602",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"onNetDuration": {
+				"value": "00:00:00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"offNetDuration": {
+				"value": "00:00:00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"onNetCharges": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"offNetCharges": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalUnits": {
+				"value": "3",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalEventUnits": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalSMSCharges": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalCallCharges": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		},
+		"callTypesFooter.itemizedRoamingDatafooter": {
+			"totalDuration": {
+				"value": "00:00:12",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalCharges": {
+				"value": "1,203",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"onNetDuration": {
+				"value": "00:00:00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"offNetDuration": {
+				"value": "00:00:00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"onNetCharges": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"offNetCharges": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalUnits": {
+				"value": "6",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalEventUnits": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalSMSCharges": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalCallCharges": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		},
+		"chargeSummary": {
+			"total": {
+				"value": "124.00",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		},
+		"chargeSummary.digitalServices": {
+			"name": {
+				"value": "Digital Services Subscriptions",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"value": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		},
+		"chargeSummary.local": [{
+			"name": {
+				"value": "Bundle",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"value": {
+				"value": "25,714.29",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"name": {
+				"value": "Data (Out Of Bundle)",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"value": {
+				"value": "25,714.29",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"name": {
+				"value": "Calls/SMS",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"value": {
+				"value": "25,714.29",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"name": {
+				"value": "International Calls/SMS",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"value": {
+				"value": "25,714.29",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}],
+		"chargeSummary.roaming": [{
+			"name": {
+				"value": "Bundle",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"value": {
+				"value": "25,714.29",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"name": {
+				"value": "Data (Out Of Bundle)",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"value": {
+				"value": "25,714.29",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"name": {
+				"value": "Calls/SMS",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"value": {
+				"value": "25,714.29",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}],
+		"chargeSummary.vat": {
+			"name": {
+				"value": "7.5% VAT",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"value": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		},
+		"dispatchBillDetails": {
+			"totalCostofThisPeriod": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"actualPayableAmount": {
+				"value": "21817",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"payableAmount": {
+				"value": "21,000",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		},
+		"dispatchBillDetails.chargeDetails": [{
+			"chargeName": {
+				"value": "CALLS",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "3,008",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "International Roaming",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "3,008",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "SMS",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "3,609",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "MMS",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "602",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "GPRS",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "602",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "Value Added Services",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "8,450",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "Subscription fee",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "50",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "SIM installments",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "200",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "Mobile number porting fee",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "50",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "Purchasing packages",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "50",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "Adjustment",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "2,000",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "Value Added Tax",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "207",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "Discounts",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "17",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "Total previous credit/ debit",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "-500",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "1000 Rials round down",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "817",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "Last Bill Total Payable Amount",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "Payment via Bank",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "Payment via E-Charge/Recharge/Via Internet",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "Migration from Prepaid(remaining Credit)",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "Service level excess credit(un-adjusted amount)",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "Account level excess payment",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}],
+		"itemizedBillDetails": {},
+		"itemizedBillDetails.adjustments": {
+			"lable": {
+				"value": "Adjustment",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"value": {
+				"value": "2,000",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		},
+		"itemizedBillDetails.adjustments.chargeDetails": {},
+		"itemizedBillDetails.billDetailsTotal": {
+			"lable": {
+				"value": "Total Costs of This period",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"value": {
+				"value": "21,627",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		},
+		"itemizedBillDetails.calls": {
+			"lable": {
+				"value": "CALLS",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"value": {
+				"value": "",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		},
+		"itemizedBillDetails.calls.chargeDetails": [{
+			"chargeName": {
+				"value": "off-net National Calls",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "1,203",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "on-net National Calls",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "602",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "International Calls",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "602",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "International Calls 060-020",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "602",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}],
+		"itemizedBillDetails.discount": {
+			"lable": {
+				"value": "Discounts",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"value": {
+				"value": "",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		},
+		"itemizedBillDetails.discount.chargeDetails": [{
+			"chargeName": {
+				"value": "Discounts 5%",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "11",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "Discounts 10%",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "6",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}],
+		"itemizedBillDetails.gprs": {
+			"lable": {
+				"value": "GPRS",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"value": {
+				"value": "602",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		},
+		"itemizedBillDetails.gprs.chargeDetails": {},
+		"itemizedBillDetails.installments": {
+			"lable": {
+				"value": "SIM installments",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"value": {
+				"value": "",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		},
+		"itemizedBillDetails.installments.chargeDetails": [{
+			"chargeName": {
+				"value": "P2P",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "50",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "Virtual Numbers (purchase &activation)",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "50",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "Change of ownership",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "50",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "Debt installments",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "50",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}],
+		"itemizedBillDetails.internationalRoaming": {
+			"lable": {
+				"value": "International Roaming",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"value": {
+				"value": "",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		},
+		"itemizedBillDetails.internationalRoaming.chargeDetails": [{
+			"chargeName": {
+				"value": "Incoming Call roaming",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "602",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "Outgoing Call roaming",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "602",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "Data (Out of Bundle) Roaming",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "602",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "Incoming SMS roaming",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "602",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "Outgoing SMS roaming",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "602",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}],
+		"itemizedBillDetails.mms": {
+			"lable": {
+				"value": "MMS",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"value": {
+				"value": "602",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		},
+		"itemizedBillDetails.mms.chargeDetails": {},
+		"itemizedBillDetails.mnpFee": {
+			"lable": {
+				"value": "Mobile number porting fee",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"value": {
+				"value": "50",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		},
+		"itemizedBillDetails.mnpFee.chargeDetails": {},
+		"itemizedBillDetails.payableAmount": {
+			"lable": {
+				"value": "Payable amount (Rials)",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"value": {
+				"value": "21,000",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		},
+		"itemizedBillDetails.paymentDetails": {
+			"lable": {
+				"value": "Total previous Credit/Debit",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"value": {
+				"value": "",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		},
+		"itemizedBillDetails.paymentDetails.chargeDetails": [{
+			"chargeName": {
+				"value": "Last Bill Total Payable Amount",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "Payment via Bank",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "Payment via E-Charge/Recharge/Via Internet",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "Migration from Prepaid(remaining Credit)",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "Service level excess credit(un-adjusted amount)",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "Account level excess payment",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}],
+		"itemizedBillDetails.purchasingPackages": {
+			"lable": {
+				"value": "Purchasing packages",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"value": {
+				"value": "",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		},
+		"itemizedBillDetails.purchasingPackages.chargeDetails": {
+			"chargeName": {
+				"value": "Secondary Bolton",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "50",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		},
+		"itemizedBillDetails.roundOfValue": {
+			"lable": {
+				"value": "1000 Rials round down",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"value": {
+				"value": "817",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		},
+		"itemizedBillDetails.sms": {
+			"lable": {
+				"value": "SMS",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"value": {
+				"value": "",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		},
+		"itemizedBillDetails.sms.chargeDetails": [{
+			"chargeName": {
+				"value": "Farsi on-net SMSs",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "602",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "English  on-net SMSs",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "602",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "Farsi off-net SMSs",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "602",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "English off-net SMSs",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "602",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "Farsi International SMSs",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "602",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "English International SMSs",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "602",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}],
+		"itemizedBillDetails.subscriptionFee": {
+			"lable": {
+				"value": "Subscription fee",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"value": {
+				"value": "",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		},
+		"itemizedBillDetails.subscriptionFee.chargeDetails": {
+			"chargeName": {
+				"value": "Insurance Fee",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "50",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		},
+		"itemizedBillDetails.tax": {
+			"lable": {
+				"value": "Value Added Tax",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"value": {
+				"value": "",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		},
+		"itemizedBillDetails.tax.chargeDetails": {
+			"chargeName": {
+				"value": "Value Added Tax",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "207",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		},
+		"itemizedBillDetails.vas": {
+			"lable": {
+				"value": "Value Added Services",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"value": {
+				"value": "",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		},
+		"itemizedBillDetails.vas.chargeDetails": [{
+			"chargeName": {
+				"value": "Shopping from Vitrin",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "250",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "Digital services",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "50",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "SIMSwap",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "50",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "Request for ITB( End Of Cycle)",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "50",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "Request for ITB ( Middle Of Cycle)",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "50",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "Insurance Fee",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "2,000",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "P2P",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "2,000",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "Virtual Numbers (purchase &activation)",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "2,000",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"chargeName": {
+				"value": "Change of ownership",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"chargeValue": {
+				"value": "2,000",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}],
+		"itemizedHeader": {
+			"paymentRefNum": {
+				"value": "125091462908",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"statementNum": {
+				"value": "",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"tariffPlan": {
+				"value": "MultiPlayDeposit",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"from": {
+				"value": "1398-08-10",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"to": {
+				"value": "1398-09-09",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"mobileNumber": {
+				"value": "028740351",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		},
+		"metadata": {
+			"lob": {
+				"value": "",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"serviceName": {
+				"value": "Pravi",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"serviceAccountId": {
+				"value": "642b3920-15c9-4678-bfdd-042a415fbce8",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"serviceEmailId": {
+				"value": "pravi1@gmail.com",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"subServiceType": {
+				"value": "",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"tariffPlanNameInOtherLanguage": {
+				"value": "MultiPlayDeposit",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"multiplayOfferingId": {
+				"value": "000000c0-b470-9363-da00-02cf80000022",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"tariffPlanCode": {
+				"value": "DEPTPLAY",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"tariffPlanName": {
+				"value": "MultiPlayDeposit",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		},
+		"overAllBillDetails": {
+			"totalDebitsOfPreviousDetails": {
+				"value": "1.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalCreditsOfPreviousDetails": {
+				"value": "150.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalDebitsOfcurrentDetails": {
+				"value": "1,394,872.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalCreditsOfcurrentDetails": {
+				"value": "1,488,550.00",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		},
+		"overAllBillDetails.currentDetails": [{
+			"name": {
+				"value": "Previous Month Balance",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"credits": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"debits": {
+				"value": "200.00",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"name": {
+				"value": "Total Current Charges",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"credits": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"debits": {
+				"value": "1,394,672.00",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"name": {
+				"value": "Payment via Bank",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"credits": {
+				"value": "9,200.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"debits": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"name": {
+				"value": "Transfer from Deposits/Corrections",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"credits": {
+				"value": "500.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"debits": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"name": {
+				"value": "Other Debits / Credits",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"credits": {
+				"value": "1,478,850.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"debits": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}],
+		"overAllBillDetails.previousDetails": [{
+			"name": {
+				"value": "Opening Balance",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"credits": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"debits": {
+				"value": "1.00",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"name": {
+				"value": "Previous Bill Charges",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"credits": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"debits": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"name": {
+				"value": "Other Debits / Credits",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"credits": {
+				"value": "50.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"debits": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"name": {
+				"value": "Payment via Bank",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"credits": {
+				"value": "50.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"debits": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"name": {
+				"value": "Transfer from Deposits/Corrections",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"credits": {
+				"value": "50.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"debits": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}],
+		"paymentsAndAdjustments": {},
+		"paymentsAndAdjustments.adjustments": [{
+			"entitycode": {
+				"value": "8038199670",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"date": {
+				"value": "02/03/19",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"transactionnumber": {
+				"value": "1RCT/00899274/19",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"cramount": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"dbamount": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"remarks": {
+				"value": "Being transfer from personal wallet for Bill payment.",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"entitycode": {
+				"value": "8038199670",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"date": {
+				"value": "02/03/19",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"transactionnumber": {
+				"value": "1RCT/00899274/19",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"cramount": {
+				"value": "6,980.34",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"dbamount": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"remarks": {
+				"value": "Being transfer from personal wallet for Bill payment.",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}],
+		"paymentsAndAdjustments.payments": [{
+			"entitycode": {
+				"value": "8038199670",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"date": {
+				"value": "02/03/19",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"transactionnumber": {
+				"value": "1RCT/00899274/19",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"cramount": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"dbamount": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"remarks": {
+				"value": "Being transfer from personal wallet for Bill payment.",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"entitycode": {
+				"value": "8038199670",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"date": {
+				"value": "02/03/19",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"transactionnumber": {
+				"value": "1RCT/00899274/19",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"cramount": {
+				"value": "6,980.34",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"dbamount": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"remarks": {
+				"value": "Being transfer from personal wallet for Bill payment.",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}],
+		"serviceAccounts": {
+			"subTotalToBePaid": {
+				"value": "2507.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"subTotalToBePaidInWords": {
+				"value": "two five zero seven",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"serviceAccountLabel": {
+				"value": "Pravi",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"itemizedFlag": {
+				"value": "Y",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"subTotalDiscounts": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"subTotalIncludedRatingDiscounts": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalDue": {
+				"value": "1,23.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"periodStart": {
+				"value": "1398-08-10",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"subTotalBeforeDiscounts": {
+				"value": "2300.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"subTotalTaxes": {
+				"value": "207.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"periodEnd": {
+				"value": "1398-09-09",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"serviceId": {
+				"value": "028740351",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"subTotalBeforeTaxes": {
+				"value": "2300.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"serviceAccountNumber": {
+				"value": "28740351",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"previousBalance": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"adjustments": {
+				"value": "-500",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"debits": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"credits": {
+				"value": "500",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"payments": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"accountExcessPayment": {
+				"value": "-500",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"serviceAdditionalValues": {
+				"value": "028740351~28740351",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		},
+		"serviceAccounts.statementDetails": [{
+			"credit": {
+				"value": "1,479,850.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"debit": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"due_amt": {
+				"value": "-94,178.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"excess_payment": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"invoice": {
+				"value": "1,394,672.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"invoice_date": {
+				"value": "2020-07-11",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"invoice_number": {
+				"value": "FINV-21071463748143909651023-20",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"payment": {
+				"value": "9,200.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"previous_balance": {
+				"value": "200.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"statement_number": {
+				"value": "1",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"adjestments": {
+				"value": "-1,479,850.00",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}, {
+			"credit": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"debit": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"due_amt": {
+				"value": "200.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"excess_payment": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"invoice": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"invoice_date": {
+				"value": "",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"invoice_number": {
+				"value": "",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"payment": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"previous_balance": {
+				"value": "1.00",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"statement_number": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"adjestments": {
+				"value": "0.00",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}],
+		"usageSummary": {
+			"totalUsage": {
+				"value": "4,211",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalGPRSUsage": {
+				"value": "0",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalNumberOfSMS": {
+				"value": "24",
+				"minValue": "1",
+				"maxValue": "10"
+			},
+			"totalNumberOfMMS": {
+				"value": "3",
+				"minValue": "1",
+				"maxValue": "10"
+			}
+		}
+	}
+}
